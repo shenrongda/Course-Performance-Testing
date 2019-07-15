@@ -12,14 +12,14 @@
 ## 课程内容
 
 | 章节 | 名称 | 内容 | 课件 |
-|:---:|:---|:---:|:---:|
+|:---:|:---:|:---:|:---:|
 |1 | 性能测试基础知识（1--基本概念、分类、性能指标等） || [<img src="./image/presentation.png" height="15" />查看](./materials/pdf/ch01.pdf) [<img src="./image/download.png" height="15" />下载](./materials/slides/ch01) |
 |2 | 性能测试基础知识(2--HTTP协议、抓包知识)|| [<img src="./image/presentation.png" height="15" />查看](./materials/pdf/ch02.pdf) [<img src="./image/download.png" height="15" />下载](./materials/slides/ch02) |
 | 3 |性能测试工具LoadRunner使用（工具选择、安装、初体验）|| [<img src="./image/presentation.png" height="15" />查看](./materials/pdf/ch03.pdf) [<img src="./image/download.png" height="15" />下载](./materials/slides/ch03) |
 | 4 |  LoadRunner基本使用（协议、录制选项设置、书写函数、运行设置） || [<img src="./image/presentation.png" height="15" />查看](./materials/pdf/ch04.pdf) [<img src="./image/download.png" height="15" />下载](./materials/slides/ch04) |
 | 5 | 性能测试工具LoadRunner使用—参数化（包含函数和变量） || [<img src="./image/presentation.png" height="15" />查看](./materials/pdf/ch05.pdf) [<img src="./image/download.png" height="15" />下载](./materials/slides/ch05) |
 | 6 | 性能测试工具LoadRunner使用—关联、事务和检查点|| [<img src="./image/presentation.png" height="15" />查看](./materials/pdf/ch06.pdf) [<img src="./image/download.png" height="15" />下载](./materials/slides/ch06) |
-| 7 | 性能测试工具LoadRunner使用—Controller使用|| [<img src="./image/presentation.png" height="15" />查看](./materials/pdf/ch07.pdf) [<img src="./image/download.png" height="15" />下载](./materials/slides/ch07) |
+| 7 | 性能测试工具LoadRunner使用—Controller使用 || [<img src="./image/presentation.png" height="15" />查看](./materials/pdf/ch07.pdf) [<img src="./image/download.png" height="15" />下载](./materials/slides/ch07 |
 | 8.1 | Linux服务器监控|| [<img src="./image/presentation.png" height="15" />查看](./materials/pdf/ch08(1).pdf) [<img src="./image/download.png" height="15" />下载](./materials/slides/ch08) |
 | 8.2 |  Linux服务器监控(2) || [<img src="./image/presentation.png" height="15" />查看](./materials/pdf/ch08(2).pdf) [<img src="./image/download.png" height="15" />下载](./materials/slides/ch08) |
 | 9.1 | 性能测试工具LoadRunner使用—Analysis || [<img src="./image/presentation.png" height="15" />查看](./materials/pdf/ch09(1).pdf) [<img src="./image/download.png" height="15" />下载](./materials/slides/ch09) |
